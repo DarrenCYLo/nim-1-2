@@ -1,7 +1,7 @@
 import java.util.Scanner; // Imports the Scanner class for reading user input
 
 /**
- * @author Darren Chun Yin Lo
+ * @author DarrenCYLo
  * @version 12/01/2025
  * TextBasedUI class Handles a text-based interface to interact with the game of Nim 1-2 through text-based commands
  * Allows players to select a computer strategy, perform the functions: Make a move, Save, Load, Undo, Clear (reset) and Quit 

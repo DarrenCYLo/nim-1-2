@@ -1,5 +1,5 @@
 /**
- * @author Darren Chun Yin Lo
+ * @author DarrenCYLo
  * @version 18/01/2025
  * The Player class handles a human player and computer player in the Game of 1-2 Nim 
  * Handles encapsulation of the computer player's name and stragegy for marble removal

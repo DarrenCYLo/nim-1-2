@@ -1,5 +1,5 @@
 /**
- * @author Darren Chun Yin Lo
+ * @author DarrenCYLo
  * @version 19/01/2024
  * MoveStrategy class interface handles different move strategies in the game of 1-2 Nim,
  * HumanStrategy class, RandomStrategy class and YourStrategy class implement this interface to define how human player and computer player removes 1 marble or 2 marbles

@@ -5,7 +5,7 @@ import java.util.Scanner; // Imports the Scanner class for reading user input
 import java.util.Stack; // Imports Stack class to store the game of 1-2 Nim game state and undo functionality 
 
 /**
- * @author Darren Chun Yin Lo
+ * @author DarrenCYLo
  * @version 12/01/2025
  * NimGame class handles the logic and the game 1-2 Nim game state management
  * Handle the game state of the game 1-2 Nim (number of marbles from 5 to 20 and player turn selection), save, load, undo and clear/reset

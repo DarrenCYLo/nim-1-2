@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent; // Imports the ActionEvent class that represe
 import java.awt.event.ActionListener; // Imports the ActionListener interface that listens and handles user selecting radio buttons and clicking Jbuttons
 
 /**
- * @author Darren Chun Yin Lo
+ * @author DarrenCYLo
  * @version 20/01/2025
  * GUI class provides a graphical user interface for the Game of 1-2 Nim.
  * It allows players to interact with the game visually and perform actions such as selecting strategies, removing marbles, undoing moves, saving, loading, and resetting the game.

@@ -1,5 +1,5 @@
 /**
- * @author Darren Chun Yin Lo
+ * @author DarrenCYLo
  * @version 19/01/2024
  * YourStrategy class handles the MoveStrategy interface for a computer player's marble removal that alternates between 1 marble removal and then 2 marbles removal on consecutive turns
  */

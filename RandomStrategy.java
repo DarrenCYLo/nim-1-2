@@ -1,7 +1,7 @@
 import java.util.Random; // Imports the Random class for random generation
 
 /**
- * @author Darren Chun Yin Lo
+ * @author DarrenCYLo
  * @version 12/01/2025
  * The RandomStrategy class handles the MoveStrategy interface for a computer player's marble removal when using random strategy that randomly remove 1 marble or 2 marbles
  */

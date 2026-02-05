@@ -1,7 +1,7 @@
 import java.util.Scanner; // Imports the Scanner class for reading user input
 
 /**
- * @author Darren Chun Yin Lo
+ * @author DarrenCYLo
  * @version 19/01/2025
  * HumanUserStrategy class handles the MoveStrategy interface for a human player's marble removal by user input (1 or 2) and ensuring the input is valid
  */
